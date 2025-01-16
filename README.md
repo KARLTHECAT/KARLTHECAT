@@ -5,7 +5,7 @@ import profile
 
 class Developer:                                                                                                          
     def __init__(self):
-        self.name = "karl"
+        self.name = "karl"                                                                                                
         self.role = "developer :D"                                                                                        
         self.current_focus = "machine learning and operating systems"                                                      
 
