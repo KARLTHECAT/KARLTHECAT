@@ -1,18 +1,13 @@
- _ Hi, I’m @KARLTHECAT _
-__________________________
-     _-what i make-_
- i make operating systems
- i make cool stuff
- i make stupid stuff
- i make phones _[but not yet]_
- __________________________
-  _what i sometimes make_
-        games 🤑
-        crazy stuff 🧑‍🦲
-        more stupid stuff
-        music
-_-----------------------_
-         LINKS
-  ___________________
-  https://www.youtube.com/channel/UCPQBlOUEKtG3YdbvMK5Zh0A
-  
+# Welcome to my GitHub profile! 👋
+import profile
+
+class Developer:
+    def __init__(self):
+        self.name = "karl"
+        self.role = "developer :D"
+        self.current_focus = "machine learning and operating systems"
+
+    def say_hi(self):
+        return "Thanks for visiting my profile!"
+
+me = Developer()
